@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "329321042854",
+    "firebase_url": "https://cinematown-cc397.firebaseio.com",
+    "project_id": "cinematown-cc397",
+    "storage_bucket": "cinematown-cc397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329321042854:android:b34a910a1bb46100957567",
+        "android_client_info": {
+          "package_name": "com.piotrbrus.cinema_town"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329321042854-m82f1normc1e662q6slbgutohj1g79gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlGt_7H_CWkc7FdhjKc7aG0_3FMP7eY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329321042854-m82f1normc1e662q6slbgutohj1g79gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329321042854-ofd4vc9hohj5vf7igrcit7d0l4m9rhk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.piotrbrus.cinemaTown"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329321042854:android:69b4420b2a323869957567",
+        "android_client_info": {
+          "package_name": "com.piotrbrus.udemy_cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329321042854-m82f1normc1e662q6slbgutohj1g79gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlGt_7H_CWkc7FdhjKc7aG0_3FMP7eY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329321042854-m82f1normc1e662q6slbgutohj1g79gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329321042854-ofd4vc9hohj5vf7igrcit7d0l4m9rhk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.piotrbrus.cinemaTown"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

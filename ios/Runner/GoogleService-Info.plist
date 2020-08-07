@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>329321042854-gf31pl2d6m3f1ltg5mrn2g4h2cst967t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.329321042854-gf31pl2d6m3f1ltg5mrn2g4h2cst967t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDL14ClxWj_LK6F6OndBXQYLgCynXidHSE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>329321042854</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.piotrbrus.udemyCinema</string>
+	<key>PROJECT_ID</key>
+	<string>cinematown-cc397</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cinematown-cc397.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:329321042854:ios:b57fc95b7f31309d957567</string>
+	<key>DATABASE_URL</key>
+	<string>https://cinematown-cc397.firebaseio.com</string>
+</dict>
+</plist>
